@@ -27,10 +27,10 @@ graph TB
     Development --> Full_Stack
     Full_Stack --> Frontend_Development
     Full_Stack --> Backend_Development
-    style Development fill:#ffcbdb,stroke:#ffcbdb
-    style Frontend fill:#ffcbdb,stroke:#ffcbdb
-    style Backend fill:#ffcbdb,stroke:#ffcbdb
-    style Full_Stack fill:#ffcbdb,stroke:#ffcbdb
+    style Development fill:#F54EA1,stroke:#ffcbdb
+    style Frontend fill:#F54EA1,stroke:#ffcbdb
+    style Backend fill:#F54EA1,stroke:#ffcbdb
+    style Full_Stack fill:#F54EA1,stroke:#ffcbdb
 ```
 
 1. [Frontend](./Module_1/1.md)
