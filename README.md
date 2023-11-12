@@ -28,10 +28,10 @@ root(Development)
     Full Stack 
         (Frontend Development)
         (Backend Development)
-    style Development fill:#F54EA1,stroke:#ffcbdb
-    style Frontend fill:#F54EA1,stroke:#ffcbdb
-    style Backend fill:#F54EA1,stroke:#ffcbdb
-    style Full_Stack fill:#F54EA1,stroke:#ffcbdb
+    style Development fill:#F54EA1
+    style Frontend fill:#F54EA1
+    style Backend fill:#F54EA1
+    style Full_Stack fill:#F54EA1
 ```
 
 1. [Frontend](./Module_1/1.md)
