@@ -7,26 +7,27 @@
 ## Content
 
 ```mermaid
-graph TB
-    Development --> Frontend
-    Frontend --> UX_Design
-    Frontend --> UI_Design
-    Frontend --> Digital_Marketing
-    Frontend --> Mobile_Apps
-    Frontend --> Desktop_Apps
-    Frontend --> Web_Development
-    Web_Development --> Responsive_Design
-    Development --> Backend
-    Backend --> VSC
-    Backend --> Databases
-    Backend --> Networking
-    Backend --> Cloud_Computing
-    Backend --> Operating_Systems
-    Backend --> Testing
-    Backend --> Containerization_&_Virtualization
-    Development --> Full_Stack
-    Full_Stack --> Frontend_Development
-    Full_Stack --> Backend_Development
+mindmap
+root(Development)
+    Frontend 
+        (UX Design)
+        (UI Design)
+        (Digital Marketing)
+        (Mobile Apps)
+        (Desktop Apps)
+        (Web Development)
+            (Responsive Design)
+    Backend 
+        (VSC)
+        (Databases)
+        (Networking)
+        (Cloud Computing)
+        (Operating Systems)
+        (Testing)
+        (Containerization & Virtualization)
+    Full Stack 
+        (Frontend Development)
+        (Backend Development)
     style Development fill:#F54EA1,stroke:#ffcbdb
     style Frontend fill:#F54EA1,stroke:#ffcbdb
     style Backend fill:#F54EA1,stroke:#ffcbdb
