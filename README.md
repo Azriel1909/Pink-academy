@@ -5,34 +5,24 @@
 
 ```mermaid
 %%{init: {'theme':'neutral'}}%%
-	mindmap
-	  root mindmap
-	    Frontend
-	      UX/UI Designer
-	      ::icon(fa-solid fa-swatchbook)
-	      Digital Marketing
-	      ::icon(fa-solid fa-bullhorn)
-	      Web Development
-	      ::icon(fa-solid fa-globe)
-	      Mobile Applications
-	      ::icon(fa-solid fa-mobile)
-	    Backend
-	      vcs
-	      ::icon(fa-brands fa-github)
-	      Scripting
-	      ::icon(fa-solid fa-scroll)
-	      Databases
-	      ::icon(fa-solid fa-database)
-	      Cybersecurity
-	      ::icon(fa-solid fa-lock)
-	      Networking
-	      ::icon(fa-solid fa-network-wired)
-	      Devops
-	      ::icon(fa-solid fa-toolbox)
-	      Cloud Computing
-	      ::icon(fa-solid fa-cloud)
-	    Full-Stack
-	      Frontend
-	      Backend
+mindmap
+  root((contenido))
+    Frontend Development
+      UX/UI Design
+      Web Development
+	      Reponsive Desing
+	  	Mobile Applications
+	  	Desktop Applications
+    Backend Development
+			VSC
+			Scripting
+			Databases
+			Cybersecurity
+			Networking
+			DevOps
+			Cloud Computing
+    Full-Stack Development
+      Frontend Development
+      Backend Devlopment
 ```
 
