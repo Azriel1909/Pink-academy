@@ -3,26 +3,28 @@
 >Nota elaborada por Ximena Toledo Rivera;
 >La fecha actual es 2023-11-12, hora 11:59.
 
+## Contenido
+
 ```mermaid
 %%{init: {'theme':'neutral'}}%%
 mindmap
-  root((contenido))
-    Frontend Development
-      UX/UI Design
-      Web Development
-	      Reponsive Desing
-	  	Mobile Applications
-	  	Desktop Applications
-    Backend Development
-			VSC
-			Scripting
-			Databases
-			Cybersecurity
-			Networking
-			DevOps
-			Cloud Computing
-    Full-Stack Development
-      Frontend Development
-      Backend Devlopment
+root (Development)
+	Frontend 
+		(UX Design)
+		(UI Design)
+		(Digital Marketing)
+		(Mobile Apps)
+		(Desktop Apps)
+		(Web Development)
+			(Responsive Desgin)
+	Backend 
+		(VSC)
+		(Scripting)
+		(Databases)
+		(DevSecOps)
+		(Networking)
+		(Cloud Computing)
+	Full Stack 
+		(Frontend Development)
+		(Backend Development)
 ```
-
