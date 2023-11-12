@@ -7,27 +7,30 @@
 ## Content
 
 ```mermaid
-mindmap
-root(Development)
-	Frontend 
-		(UX Design)
-		(UI Design)
-		(Digital Marketing)
-		(Mobile Apps)
-		(Desktop Apps)
-		(Web Development)
-			(Responsive Design)
-	Backend 
-		(VSC)
-		(Databases)
-		(Networking)
-		(Cloud Computing)
-		(Operating Systems)
-		(Testing)
-		(Containerization & Virtualization)
-	Full Stack 
-		(Frontend Development)
-		(Backend Development)
+graph TB
+    Development --> Frontend
+    Frontend --> UX_Design
+    Frontend --> UI_Design
+    Frontend --> Digital_Marketing
+    Frontend --> Mobile_Apps
+    Frontend --> Desktop_Apps
+    Frontend --> Web_Development
+    Web_Development --> Responsive_Design
+    Development --> Backend
+    Backend --> VSC
+    Backend --> Databases
+    Backend --> Networking
+    Backend --> Cloud_Computing
+    Backend --> Operating_Systems
+    Backend --> Testing
+    Backend --> Containerization_&_Virtualization
+    Development --> Full_Stack
+    Full_Stack --> Frontend_Development
+    Full_Stack --> Backend_Development
+    style Development fill:#ffcbdb,stroke:#ffcbdb
+    style Frontend fill:#ffcbdb,stroke:#ffcbdb
+    style Backend fill:#ffcbdb,stroke:#ffcbdb
+    style Full_Stack fill:#ffcbdb,stroke:#ffcbdb
 ```
 
 1. [Frontend](./Module_1/1.md)
