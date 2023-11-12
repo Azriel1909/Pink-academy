@@ -1,8 +1,5 @@
 # What do you do?
 
->Nota elaborada por Ximena Toledo Rivera;
->La fecha actual es 2023-11-12, hora 11:59.
-
 ## Contenido
 
 ```mermaid
