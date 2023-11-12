@@ -5,7 +5,7 @@
 ```mermaid
 %%{init: {'theme':'neutral'}}%%
 mindmap
-root (Development)
+root(Development)
 	Frontend 
 		UX Design
 		UI Design
@@ -13,7 +13,7 @@ root (Development)
 		Mobile Apps
 		Desktop Apps
 		Web Development
-			Responsive Desgin
+			Responsive Design
 	Backend 
 		VSC
 		Scripting
