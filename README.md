@@ -4,8 +4,8 @@
 
 ```mermaid
 mindmap
-  root((mindmap))
-    Origins
+  root(Development)
+    Frontend
       Long history
       ::icon(fa fa-book)
       Popularisation
