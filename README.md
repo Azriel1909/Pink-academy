@@ -3,6 +3,7 @@
 ## Contenido
 
 ```mermaid
+%%{init: {'theme':'forest'}}%%
 mindmap
 root(Development)
 	Frontend 
