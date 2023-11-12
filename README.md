@@ -3,22 +3,24 @@
 ## Contenido
 
 ```mermaid
-%%{init: {'theme':'neutral'}}%%
 mindmap
-  root(Development)
-    Frontend
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectiveness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
+root(Development)
+	Frontend 
+		UX Design
+		UI Design
+		Digital Marketing
+		Mobile Apps
+		Desktop Apps
+		Web Development
+			Responsive Design
+	Backend 
+		VSC
+		Scripting
+		Databases
+		DevSecOps
+		Networking
+		Cloud Computing
+	Full Stack 
+		Frontend Development
+		Backend Development
 ```
