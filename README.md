@@ -1,6 +1,10 @@
 # What do you do?
 
-## Contenido
+> Created by Ximena Toledo
+> 
+> nov 12 2023
+
+## Content
 
 ```mermaid
 mindmap
