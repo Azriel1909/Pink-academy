@@ -32,4 +32,4 @@ mindmap
 
 1. [Frontend](./Module_1/1.md)
 1. [Backend](./Module_1/2.md)
-2. 
+2. [Full-Stack](./Module_1/3.md)
